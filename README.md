@@ -6,10 +6,6 @@
 <!-- Alt Başlık / Rol -->
 <h3 align="center">✨ Software Engineering Student ✨</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blueviolet?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Neuroscience%20%26%20AI-informational?style=for-the-badge" alt="Focus">
-</p>
 
 ---
 
