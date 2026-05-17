@@ -14,7 +14,7 @@
 Merhaba! Ben **Hatice**. Yazılım mühendisliği öğrencisiyim. 
 
 * 🚀 **Şu an ne üzerinde çalışıyorum:** Yazılım mühendisliğinin temelleri, algoritma tasarımı ve yapay zeka teknolojileri.
-* 🧠 **Derin İlgi Alanlarım:** Yapay zeka
+* 🧠 **Derin İlgi Alanlarım:** Yapay zeka ve makine öğrenimi
 * 📚 **Hedefim:** Akademik araştırmalarla teknolojiyi birleştirip toplumsal fayda ve yüksek etki yaratacak projeler geliştirmek.
 
 ---
