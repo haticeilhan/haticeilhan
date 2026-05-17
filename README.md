@@ -4,7 +4,7 @@
 </p>
 
 <!-- Alt Başlık / Rol -->
-<h3 align="center">✨ Software Engineering Student & Aspiring Tech Innovator ✨</h3>
+<h3 align="center">✨ Software Engineering Student ✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blueviolet?style=for-the-badge" alt="Status">
@@ -15,19 +15,20 @@
 
 ### 👩‍💻 Hakkımda
 
-Merhaba! Ben **Hatice**. Yazılım mühendisliği öğrencisiyim. Teknolojinin sınırlarını zorlamayı, kod yazarak yeni dünyalar inşa etmeyi ve tasarım ile fonksiyonelliği bir araya getirmeyi çok seviyorum. 
+Merhaba! Ben **Hatice**. Yazılım mühendisliği öğrencisiyim. 
 
-* 🚀 **Şu an ne üzerinde çalışıyorum:** Yazılım mühendisliğinin temelleri, algoritma tasarımı ve modern web teknolojileri.
-* 🧠 **Derin İlgi Alanlarım:** Yapay zeka, nörobilim (neuroscience) entegrasyonu ve insan-bilgisayar etkileşimi.
-* 🎨 **Yaratıcı Yönüm:** Tasarım süreçlerine, görsel estetiğe ve kullanıcı deneyimine (UI/UX) büyük bir ilgim var.
+* 🚀 **Şu an ne üzerinde çalışıyorum:** Yazılım mühendisliğinin temelleri, algoritma tasarımı ve yapay zeka teknolojileri.
+* 🧠 **Derin İlgi Alanlarım:** Yapay zeka
 * 📚 **Hedefim:** Akademik araştırmalarla teknolojiyi birleştirip toplumsal fayda ve yüksek etki yaratacak projeler geliştirmek.
 
 ---
 
 ### 🛠️ Teknolojik Yetenekler & Araçlar
 
+Profiline web sitesi havası katacak renkli teknoloji ikonları:
+
 <p align="left">
-  <!-- Programlama Dilleri ve Teknolojiler -->
+  <!-- Programlama Dilleri -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-tech-badges/main/skills-logos/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-tech-badges/main/skills-logos/python-original.svg" alt="Python" width="40" height="40" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-tech-badges/main/skills-logos/html5-original.svg" alt="HTML5" width="40" height="40" /></a>
@@ -38,22 +39,31 @@ Merhaba! Ben **Hatice**. Yazılım mühendisliği öğrencisiyim. Teknolojinin s
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-tech-badges/main/skills-logos/git-original.svg" alt="Git" width="40" height="40" /></a>
 </p>
 
+*(Buradaki ikonları ileride öğrendiğin dillere göre kolayca çoğaltabiliriz!)*
+
 ---
 
 ### 📊 GitHub İstatistiklerim
 
+Profilinin ne kadar aktif olduğunu gösteren otomatik güncellenen dinamik kartlar:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haticeilhan&show_icons=true&theme=radial&hide_border=true&align=center" alt="Hatice's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haticeilhan&theme=radial&hide_border=true" alt="Hatice's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KENDI_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radial&hide_border=true&align=center" alt="Hatice's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KENDI_GITHUB_KULLANICI_ADIN&theme=radial&hide_border=true" alt="Hatice's Streak Stats" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Benimle İletişime Geç
 
+Aşağıdaki butonların linklerini kendi hesaplarına göre güncelleyebilirsin:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/hatice-ilhan-3486963a2" target="_blank">
+  <a href="https://linkedin.com/in/KENDI_LINKEDIN_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:eposta@adresin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -61,5 +71,5 @@ Merhaba! Ben **Hatice**. Yazılım mühendisliği öğrencisiyim. Teknolojinin s
 
 <!-- Ziyaretçi Sayacı -->
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=haticeilhan&color=blueviolet&style=flat-square" alt="Ziyaretçi Sayısı" />
+  <img src="https://komarev.com/ghvc/?username=KENDI_GITHUB_KULLANICI_ADIN&color=blueviolet&style=flat-square" alt="Ziyaretçi Sayısı" />
 </p>
